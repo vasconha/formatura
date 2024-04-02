@@ -1,18 +1,22 @@
-.cabeçario{
-background-color: black;
-color: black;
-padding: 24px 0;
+* {
+  margin: 0px;
+  padding: 0px;
 }
-.cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
+
+.corpo_site {
+    color: white;
+    background-color: black;
 }
-.escola-imagem{
-    width: 25%;
 
+.cabeçalho {
+    text-align: center;
+}
 
+.cabeçalho_titulo {
+    font-size: 30px;
+}
 
-
-
+.paragrafo-introdução {
+    text-align: center;
+    text-align: justify;
 }
